@@ -8,29 +8,12 @@
     "codeforces": 0,
     "geeksforgeeks": 0
   },
-  "category_stats": {
-    "Arrays": 0,
-    "Bit_Manipulation": 0,
-    "Dp": 0,
-    "Graphs": 0,
-    "Greedy": 0,
-    "Heap": 0,
-    "Linkedlist": 0,
-    "Maths": 0,
-    "Queue": 0,
-    "Recursion": 0,
-    "Search": 0,
-    "Sorting": 0,
-    "Stack": 0,
-    "Strings": 0,
-    "Trees": 0,
-    "Tries": 0
-  },
+  "category_stats": {},
   "language_stats": {},
   "difficulty_stats": {
     "Easy": 0,
     "Medium": 0,
     "Hard": 0
   },
-  "last_updated": "2026-01-09T05:52:02.353679"
+  "last_updated": "2026-01-09T00:37:59.645569"
 }
