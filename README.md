@@ -32,6 +32,7 @@ This repository is my **commitment to consistent growth** in problem-solving, al
 ## 📈 Live Statistics
 
 
+
 <!-- AUTO-GENERATED STATS START -->
 <div align="center">
 
@@ -40,9 +41,9 @@ This repository is my **commitment to consistent growth** in problem-solving, al
 | Metric | Value |
 |------|------|
 | 🎯 Total Problems | 0 |
-| 🔥 Current Streak | 1 days |
-| 🏆 Longest Streak | 1 days |
-| 📅 Days Active | 1 |
+| 🔥 Current Streak | 2 days |
+| 🏆 Longest Streak | 2 days |
+| 📅 Days Active | 2 |
 
 ### 🎯 Difficulty Breakdown
 | Difficulty | Solved |
@@ -61,6 +62,9 @@ This repository is my **commitment to consistent growth** in problem-solving, al
 
 </div>
 <!-- AUTO-GENERATED STATS END -->
+
+
+
 
 
 
