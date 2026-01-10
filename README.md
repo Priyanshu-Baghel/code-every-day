@@ -33,6 +33,7 @@ This repository is my **commitment to consistent growth** in problem-solving, al
 
 
 
+
 <!-- AUTO-GENERATED STATS START -->
 <div align="center">
 
@@ -53,15 +54,19 @@ This repository is my **commitment to consistent growth** in problem-solving, al
 | 🔴 Hard | 0 |
 
 ### 🧠 AI Daily Insight
-> 💡 Start solving problems daily to unlock insights.
+> 💡 You're strong in Maths. Start attempting Hard problems.
 
 ### 📚 Category Distribution
 ```text
+Maths                     ████████████████████ 100%
 
 ```
 
 </div>
 <!-- AUTO-GENERATED STATS END -->
+
+
+
 
 
 
