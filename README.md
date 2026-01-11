@@ -34,6 +34,7 @@ This repository is my **commitment to consistent growth** in problem-solving, al
 
 
 
+
 <!-- AUTO-GENERATED STATS START -->
 <div align="center">
 
@@ -42,9 +43,9 @@ This repository is my **commitment to consistent growth** in problem-solving, al
 | Metric | Value |
 |------|------|
 | 🎯 Total Problems | 0 |
-| 🔥 Current Streak | 2 days |
-| 🏆 Longest Streak | 2 days |
-| 📅 Days Active | 2 |
+| 🔥 Current Streak | 3 days |
+| 🏆 Longest Streak | 3 days |
+| 📅 Days Active | 3 |
 
 ### 🎯 Difficulty Breakdown
 | Difficulty | Solved |
@@ -64,6 +65,9 @@ Maths                     ██████████████████
 
 </div>
 <!-- AUTO-GENERATED STATS END -->
+
+
+
 
 
 
